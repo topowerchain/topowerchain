@@ -1,7 +1,7 @@
-What is topowertoken
+# What is topowertoken
 topowertoken is focusing on next generation platform of public Blockchain infrastructure and building a future ecosystem of Ubiquitous Trust Network. Therefore, value will be transferred freely on Blockchain just as information is transferred freely on Internet today. Lots of decentralized applications, such as digital assets and Internet of things, can be developed and deployed rapidly over topowertoken network.
 
-Features
+# Features
 Flexible multi-asset and multi-operator structure of accounts and transactions.
 An improved two-stage and two-layer consensus protocol based on DPoS+BFT, called "Firework".
 A novel two-layer polymorphic architecture of multi-child Blockchain will be supported, called "Orbits".
@@ -19,4 +19,4 @@ manual document
 Development
 development document
 License
-topowertoken blockchain is under the GPLv3 license.
+# topowertoken blockchain is under the GPLv3 license.
