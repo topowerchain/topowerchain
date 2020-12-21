@@ -1,5 +1,5 @@
-# What is topowertoken
-topowertoken is focusing on next generation platform of public Blockchain infrastructure and building a future ecosystem of Ubiquitous Trust Network. Therefore, value will be transferred freely on Blockchain just as information is transferred freely on Internet today. Lots of decentralized applications, such as digital assets and Internet of things, can be developed and deployed rapidly over topowertoken network.
+# What is topowerchain
+topowerchain is focusing on next generation platform of public Blockchain infrastructure and building a future ecosystem of Ubiquitous Trust Network. Therefore, value will be transferred freely on Blockchain just as information is transferred freely on Internet today. Lots of decentralized applications, such as digital assets and Internet of things, can be developed and deployed rapidly over topowerchain network.
 
 # Features
 Flexible multi-asset and multi-operator structure of accounts and transactions.
@@ -19,4 +19,4 @@ manual document
 Development
 development document
 License
-# topowertoken blockchain is under the GPLv3 license.
+# topowerchain blockchain is under the GPLv3 license.
